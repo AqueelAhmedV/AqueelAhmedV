@@ -1,9 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!;My+name's+Aqueel+Ahmed.;I'm+a+full-stack+developer." alt="intro typing">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!;My+name's+Aqueel+Ahmed;I'm+a+Full+stack+developer." alt="intro typing">
 👋 Hi there! I'm Aqueel Ahmed, a passionate Full Stack Developer with a love for building robust and innovative web and mobile applications. 
 
 ## About Me
 - 💼 Currently working part-time as a Full Stack Developer at [interwiu.com](https://interwiu.com)
 - 🌐 Visit my portfolio website: [aqueelahmedv](https://aqueelahmedv.vercel.app)
+- Something I'm working on: <a href="https://maily-alpha.vercel.app"><img src="https://maily-alpha.vercel.app/assets/maily-892a760e.svg" style="aspect-ratio:1;height:15px;margin: 0 5px"></a> <a href="https://github.com/aqueelahmedv/maily"><img src="https://github.com/favicon.ico" style="aspect-ratio:1;height:15px;background-color:white;border-radius:1000px;border:0;outline:0;padding:0;margin: 0 5px"></a>
 - 📧 Contact me: [Gmail](mailto:aqueelvallanchira13@gmail.com)
 - 📚 Constantly learning and exploring new technologies to stay at the forefront of web development
 
