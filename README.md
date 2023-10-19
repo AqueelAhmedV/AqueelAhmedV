@@ -1,5 +1,4 @@
-# Welcome to Aqueel Ahmed's GitHub Profile!
-
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!;My+name's+Aqueel+Ahmed.;I'm+a+full-stack+developer." alt="intro typing">
 👋 Hi there! I'm Aqueel Ahmed, a passionate Full Stack Developer with a love for building robust and innovative web and mobile applications. 
 
 ## About Me
@@ -32,7 +31,7 @@ Here are some of the technologies and tools I'm proficient in:
 Feel free to explore my GitHub repositories for more projects and code.
 
 ## GitHub Stats
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=AqueelAhmedV)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=AqueelAhmedV)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AqueelAhmedV&show_icons=true&theme=dark)
 
 ## Connect with Me
