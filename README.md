@@ -19,6 +19,7 @@ Here are some of the technologies and tools I'm proficient in:
 ![Material UI](https://img.shields.io/badge/Material_UI-5E5E5E?style=for-the-badge&logo=mui&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-5E5E5E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-5E5E5E?style=for-the-badge&logo=django&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5E5E5E?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-5E5E5E?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5E5E5E?style=for-the-badge&logo=mongodb&logoColor=47A248)
