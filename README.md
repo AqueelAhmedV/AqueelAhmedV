@@ -26,8 +26,7 @@ Here are some of the technologies and tools I'm proficient in:
 ![Git](https://img.shields.io/badge/Git-5E5E5E?style=for-the-badge&logo=git&logoColor=F05032)
 
 ## My Projects
-- [Project 1](URL): A brief description of what the project is about.
-- [Project 2](URL): Another project description.
+Check out my pinned projects down below
 
 Feel free to explore my GitHub repositories for more projects and code.
 
