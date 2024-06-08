@@ -43,4 +43,6 @@ Let's connect and collaborate:
 Thanks for visiting my GitHub profile. Feel free to reach out if you have any questions or opportunities to collaborate!
 
 Happy coding! 🚀
-
+<style>
+  background-color: #f5f;
+</style>
